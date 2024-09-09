@@ -1,4 +1,4 @@
-baseURL = "https://inadequate.solutions/"
+baseURL = "https://inadequate.solutions"
 languageCode = "en-us"
 
 title = "inadequate.solutions"
@@ -18,8 +18,8 @@ theme = "wasteland"
 #    url = "/projects"
 #    weight = 20
 #
-#[[menu.nav]]
-#    identifier = "about"
-#    name = "about"
-#    url = "/about"
-#    weight = 100
+[[menu.nav]]
+    identifier = "contact"
+    name = "contact"
+    url = "/contact"
+    weight = 100
