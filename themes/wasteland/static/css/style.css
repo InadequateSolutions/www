@@ -1,0 +1,161 @@
+html {
+    margin: 0;
+    padding: 0;
+
+    margin-left: calc(100vw - 100%);
+}
+
+body {
+    display: block;
+    overflow: auto;
+
+    width: 864px; /* Dumpster fire graphic width */
+
+    margin: auto;
+
+    font-family: Verdana, sans-serif;
+    color: #bababa;
+
+    background-color: black;
+}
+
+.topnav {
+    width: 100%;
+    margin: auto;
+}
+
+.container {
+    height: 95%;
+    background-color: #000a0d;
+}
+
+.content {
+    padding: 14px 16px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.nav_list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0b2528; 
+}
+
+.nav_entry {
+    float: right;
+}
+
+.nav_btn {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    color: white;
+}
+
+.nav_btn:hover {
+    text-decoration: none;
+}
+
+.nav_entry a:hover:not(.nav_curr) {
+    background-color: #316065;
+}
+
+.nav_curr {
+    background-color: #000a0d;
+}
+
+.logo_text {
+    color: white;
+    padding-left: 16%;
+    color: white;
+    text-align: center;
+    font-size: larger;
+}
+
+.tags {
+    margin-left: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #66b0c6;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+}
+
+h2 {
+    color: #6aaf77;
+    margin-left: 8px;
+}
+
+h3 {
+    margin-left: 10px;
+}
+
+h4 {
+    margin-left: 10px;
+}
+
+strong {
+    font-weight: normal;
+    color: #dd7733;
+}
+
+p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+a.postlist:hover {
+    text-decoration: none;
+}
+
+.postlist_entry {
+    padding: 8px;
+}
+
+.postlist_entry:hover {
+    background-color: #0b2528; 
+    text-decoration: none;
+}
+
+/* h2-esque postlist headings */
+.postlist_title {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.postlist_date {
+    color: #6aaf77;
+    font-weight: bold; 
+}
+
+.postlist_summary {
+    color: #bababa;
+    font-style: italic;
+}
+
+.flame {
+    color: #dd7733;
+}
+
+.fire {
+    color: #ffcf19;
+}
+
+.ashes {
+    color: #a0a0a0;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

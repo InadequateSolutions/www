@@ -1,0 +1,25 @@
+baseURL = "https://inadequate.solutions/"
+languageCode = "en-us"
+
+title = "inadequate.solutions"
+
+# https://themes.gohugo.io/hugo-theme-codex/
+theme = "wasteland"
+
+#[[menu.nav]]
+#    identifier = "posts"
+#    name = "posts"
+#    url = "/posts"
+#    weight = 10
+#
+#[[menu.nav]]
+#    identifier = "projects"
+#    name = "projects"
+#    url = "/projects"
+#    weight = 20
+#
+#[[menu.nav]]
+#    identifier = "about"
+#    name = "about"
+#    url = "/about"
+#    weight = 100

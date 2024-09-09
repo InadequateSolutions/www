@@ -1,0 +1,31 @@
+<div class="topnav">
+    <ul class="nav_list">
+        <li class="nav_entry" style="float: left;">
+            <a class="nav_btn" href="{{ .Site.BaseURL }}">
+                <span class="flame">{{ index (split .Site.Title ".") 0 }}</span>.<!--
+             --><span class="ashes">{{ index (split .Site.Title ".") 1 }}</span>
+            </a>
+        </li>
+
+        <!-- 
+            Reversed because they're floated right
+            https://discourse.gohugo.io/t/another-way-to-make-a-menu-item-active/17029
+        -->
+        {{ $current := . }}
+        {{ range .Site.Menus.nav.ByWeight.Reverse}}
+
+        <!-- Crude "active tab" logic for fairly fixed set of items... -->
+        {{ $active := and (eq .Name "posts") (eq $current.Section "posts") }}
+        {{ $active = or $active (and (eq .Name "projects") (eq $current.Page.Name "Projects")) }}
+        {{ $active = or $active (and (eq .Name "about") (eq $current.Page.Name "About" )) }}
+
+        <!-- {{ $current.Section }} -->
+        <li class="nav_entry">
+            {{ $text := print .Name | safeHTML }}
+            <a class="nav_btn {{ if $active }}nav_curr{{ end }}" href="{{ .URL }}">{{ $text }}</a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+
+<div style="height: 1em"></div>

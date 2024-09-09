@@ -1,0 +1,18 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ range .Pages.ByPublishDate.Reverse }}
+{{ $dateTime := .PublishDate.Format "2006-01-02" }}
+{{ $dateFormat := .Site.Params.dateFormat | default "January 01, 2006" }}
+
+<a class="postlist" href="{{ .RelPermalink }}">
+<div class="postlist_entry">
+	<span class="postlist_title">{{ .Title }}</span>
+	<br/>
+	<span class="postlist_date">// {{ .PublishDate.Format $dateFormat }}</span>
+	</br>
+	<p class="postlist_summary">{{ .Summary }}</p>
+</div>
+</a>
+
+{{ end }}
+{{ end }}
