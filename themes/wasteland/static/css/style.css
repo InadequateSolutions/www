@@ -6,6 +6,8 @@ html {
 }
 
 body {
+    max-width: 864px;
+
     display: block;
     overflow: auto;
 
