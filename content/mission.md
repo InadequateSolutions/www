@@ -1,0 +1,15 @@
+---
+title: "Mission Statement"
+---
+
+## Today's Solutions, Tomorrow...
+
+In July of 1969, human beings not only stepped foot on the moon, but also managed to return to Earth safely! This epic feat was achieved using a 16-bit guidance computer operating at 1.024 MHz clock speed and consisting only of NOR gates, expanders, amplifiers, 2,048 16-bit words of erasable magnetic core memory, and 36,864 words of read-only core rope memory. Thanks to truly incredible engineers, humanity achieved so much with so little.
+
+Today, we honor and stand on the shoulders of these technical giants by mass-producing aggressively mediocre Internet-connected crap that treats users as little more than meaty data sources. Yet we're so very much in love our e-waste-in-training that when latest model is announced, we gleefully *"recycle"* it right onto the shores countries we audaciously deem too poor to matter. 
+
+**Inadequate Solutions** proudly strives to accomplish nothing, transparently.
+
+Unlike other profit-driven corporations, we readily admit that we're not very good at things and probably won't ever manage to do anything that significantly improves humanity. In fact, at this point, all we can really do is minimize the impact of the damage we all have already done to this poor planet and just die already.
+
+With that said, we hope you'll consider us for your engineering needs. Together, we'll passionately build something and it might even work sometimes.

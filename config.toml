@@ -6,18 +6,18 @@ title = "inadequate.solutions"
 # https://themes.gohugo.io/hugo-theme-codex/
 theme = "wasteland"
 
-#[[menu.nav]]
-#    identifier = "posts"
-#    name = "posts"
-#    url = "/posts"
-#    weight = 10
-#
-#[[menu.nav]]
-#    identifier = "projects"
-#    name = "projects"
-#    url = "/projects"
-#    weight = 20
-#
+[[menu.nav]]
+    identifier = "products"
+    name = "products"
+    url = "/products"
+    weight = 10
+
+[[menu.nav]]
+    identifier = "mission"
+    name = "mission"
+    url = "/mission"
+    weight = 20
+
 [[menu.nav]]
     identifier = "contact"
     name = "contact"
