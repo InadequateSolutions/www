@@ -47,8 +47,11 @@ body {
 .nav_entry {
     float: right;
 
-    /* Hack: https://stackoverflow.com/a/37836926 */
-    font-size: calc(0.5em + 1.25vw);
+    /* Hacks:
+     * 	 https://stackoverflow.com/a/37836926 
+     * 	 https://css-tricks.com/viewport-sized-typography/
+     */
+    font-size: min(calc(0.5em + 1.25vw), 1em);
 }
 
 .nav_btn {
