@@ -6,7 +6,7 @@ html {
 }
 
 body {
-    max-width: 864px;
+    max-width: 864px; /* Splash image width */
 
     display: block;
     overflow: auto;
@@ -14,6 +14,7 @@ body {
     margin: auto;
 
     font-family: Verdana, sans-serif;
+
     color: #bababa;
 
     background-color: black;
@@ -45,6 +46,9 @@ body {
 
 .nav_entry {
     float: right;
+
+    /* Hack: https://stackoverflow.com/a/37836926 */
+    font-size: calc(0.5em + 1.25vw);
 }
 
 .nav_btn {
@@ -71,7 +75,7 @@ body {
     padding-left: 16%;
     color: white;
     text-align: center;
-    font-size: larger;
+    font-size: calc(0.5em + 2vmin);
 }
 
 .tags {
@@ -128,7 +132,6 @@ a.postlist:hover {
 
 /* h2-esque postlist headings */
 .postlist_title {
-    font-size: 1.5em;
     font-weight: bold;
 }
 
