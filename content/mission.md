@@ -8,8 +8,8 @@ In July of 1969, human beings not only stepped foot on the moon, but also manage
 
 Today, we honor and stand on the shoulders of these technical giants by mass-producing aggressively mediocre Internet-connected crap that treats users as little more than meaty data sources. And yet, we're so very much in love our e-waste-in-training that when the latest model is announced, we gleefully *"recycle"* it right onto the shores countries we audaciously deem too poor to matter. 
 
-**Inadequate Solutions** proudly strives to accomplish nothing, transparently.
+**Inadequate Solutions** proudly strives to accomplish something and will do it passionately, ethically, sustainably, and transparently.
 
-Unlike other profit-driven corporations, we readily admit that we're not very good at things and probably won't ever manage to do anything that significantly improves humanity. In fact, at this point, all we can really do is minimize the impact of the damage we all have already done to this poor planet and just die already.
+Unlike other profit-driven corporations, we readily admit that we're not very good at things and probably will never manage to do anything that significantly improves humanity. In fact, at this point, all we can really aim to do is minimize the impact of the damage we all have already done to this poor planet and just die already.
 
 With that said, we hope you'll consider us for all your turnkey engineering needs. Together, we'll passionately build something and it might even work sometimes.
