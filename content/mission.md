@@ -10,6 +10,14 @@ Today, we honor and stand on the shoulders of these technical giants by mass-pro
 
 **Inadequate Solutions** proudly strives to accomplish something -- literally *anything* -- and will do it passionately, ethically, sustainably, and transparently.
 
-Unlike profit-driven corporations, we readily admit that we're not very good at things and probably will never manage to do anything that significantly improves humanity. In fact, at this point, all we can really aim to do is minimize the impact of the damage we all have already done to this poor planet and just die already.
+Unlike those other *profit-driven* corporations, we readily admit that we're not very good at things and probably will never manage to do anything that significantly improves humanity. In fact, at this point, the best we can really aim to do is avoid further destruction of this poor planet and just die already.
 
-With that said, we hope you'll consider us for all your turnkey engineering needs. Together, we'll passionately build something under-scoped, underwhelming, and over budget. It might just even work sometimes!
+With that being said, we hope you'll consider us for all of your turnkey engineering needs. Together, we'll passionately build something under-scoped, underwhelming, and way over budget. It might just even work sometimes!
+
+{{< right >}}
+----------------
+
+*t̶̢͍̰̯͎͍̭̰̖̀̀̅̍̏͒̓̏͘͘͝h̵̢͉̆̌̌͌͌̉͆̓̑̿̍̍̚͝͝͝e̷̗͍̣̹̞̘̭͇͈̤̪͗͐͑̂ͅ ̶̡̰͙̪̍̃̏̆̀̃̀͛̈́̈́̚͝P̴̡̱̳̖͍͙̠̱̄̉̄͒̀̔̓̈̋̋̋͂̃̚͝ͅe̷̻͒̈́̌̽̓̃̈̀͘̕͝ó̴̱̘̒̍̋͆͝͝ͅp̴̨̢̰͔̜̱͈̘̳̣̙̠̳̣͉̝̘̋͆̓̀̏̏́l̷̼̗͙̈́̔̂͗͗ê̸̳͖̪̤̥̩̻̮̯͑̾̍̋̄͘͠ ̸̛̹̠̅̑̏́͘͝T̴̹̩̠̜̼̞̥́̋̎̊̚͠ȇ̵̢̥̣̥̓̈́̚͘a̵̗̙̠̦͙̹̲̘͇̒͂̓̓̈́͝ͅͅͅm̸̛̱̈́̉̄̒̇̊̾̀̆̉͂̿͠*
+
+**Inadequate Solutions**
+{{< /right >}}
