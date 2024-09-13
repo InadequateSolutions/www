@@ -32,8 +32,8 @@ body {
 
 .content {
     padding: 14px 16px;
-    text-align: justify;
-    text-justify: inter-word;
+    text-align: start;
+    #text-justify: inter-word;
 }
 
 .nav_list {
@@ -57,7 +57,7 @@ body {
 .nav_btn {
     display: block;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 1vw 14px 1vw;
     color: white;
 }
 
@@ -165,4 +165,11 @@ a.postlist:hover {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+}
+
+.right {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: end;
 }
