@@ -6,7 +6,7 @@ Here at **Inadequate Solutions**, we believe everyone is part of our mission to 
 
 <br/><br/>
 
-As such, we elevate our t̶̞̐r̸͉̕ũ̷̞s̴̕ͅt̴͓͝e̴͇͊d̶̲̚ ̴̫͌P̸͙̈́ȇ̷̖o̸̘̎p̶̛̫l̶̰̀ě̶͙ ̵̫̈́T̷̘̐e̴̗͋å̴͔m̶̼̀  to the top of our organization, right where they should be -- at the helm of the business. Kindly direct all inquiries and requests [directly to our leadership](mailto:hr@inadequate.solutions).
+As such, we elevate our trusted H̵̗̳̻͍̟͌̇̿̈̈́̄́͝ṵ̴͌̐̂̏̓͒̍̀m̴̡̢̡̱̞͙̖͕̞̰͇̺̦̞̰͚̏́͑̎̃̃̓̈͂͘͜͠ā̴̛̘̺̰̹͕̪̱̖͗̅̊̇̕͠n̶̘̻̂̿́̽̈̇̿̀̈́͛̓̏̈́̓͂͘ ̷̡̨͓͚̠͈̪̽͒̒̓͂̍R̵͚͓̀͌͒́̈́̄̽̂̈́͗͘͠͠͝ě̵̛̋̿̈́̈́̏̊̃̀̄̀̆͜͝͠s̸̡̛̟̙͕̘͓͍̞̱̳͆̓̏̅͋͐̂͊̔̚ö̴̢̱̙̳͉̮͇̣̱͛̑͋̑̈́̔͜͝u̸͇̔̍́͜͠͝r̶̖̝͑̐͂͆͝c̵̢̛̝̹͔̬̜͈͈̳͙͓͖̬̰̳̔̄̿̕̕ẹ̶̠̪͌͒̿̈́͆́͘s̴͔͓̞̿̋̄̽̆͆͑̀̊͂͜ͅ team to the top of our organization, right where they should be -- at the helm of the business. Kindly direct all inquiries and requests [directly to our leadership](mailto:hr@inadequate.solutions).
 
 <br/><!-- website goes brrrrrrrrrrrr --><br/>
 <img class="center" src="/images/dumpsterFire_small.gif" />
