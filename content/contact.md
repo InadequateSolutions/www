@@ -6,7 +6,7 @@ Here at **Inadequate Solutions**, we believe everyone is part of our mission to 
 
 <br/><br/>
 
-As such, we elevate our trusted H̵̗̳̻͍̟͌̇̿̈̈́̄́͝ṵ̴͌̐̂̏̓͒̍̀m̴̡̢̡̱̞͙̖͕̞̰͇̺̦̞̰͚̏́͑̎̃̃̓̈͂͘͜͠ā̴̛̘̺̰̹͕̪̱̖͗̅̊̇̕͠n̶̘̻̂̿́̽̈̇̿̀̈́͛̓̏̈́̓͂͘ ̷̡̨͓͚̠͈̪̽͒̒̓͂̍R̵͚͓̀͌͒́̈́̄̽̂̈́͗͘͠͠͝ě̵̛̋̿̈́̈́̏̊̃̀̄̀̆͜͝͠s̸̡̛̟̙͕̘͓͍̞̱̳͆̓̏̅͋͐̂͊̔̚ö̴̢̱̙̳͉̮͇̣̱͛̑͋̑̈́̔͜͝u̸͇̔̍́͜͠͝r̶̖̝͑̐͂͆͝c̵̢̛̝̹͔̬̜͈͈̳͙͓͖̬̰̳̔̄̿̕̕ẹ̶̠̪͌͒̿̈́͆́͘s̴͔͓̞̿̋̄̽̆͆͑̀̊͂͜ͅ team to the top of our organization, right where they should be -- at the helm of the business. Kindly direct all inquiries and requests [directly to our leadership](mailto:hr@inadequate.solutions).
+As such, we elevate our trusted H̵̗̳̻͍̟͌̇̿̈̈́̄́͝ṵ̴͌̐̂̏̓͒̍̀m̴̡̢̡̱̞͙̖͕̞̰͇̺̦̞̰͚̏́͑̎̃̃̓̈͂͘͜͠ā̴̛̘̺̰̹͕̪̱̖͗̅̊̇̕͠n̶̘̻̂̿́̽̈̇̿̀̈́͛̓̏̈́̓͂͘ ̷̡̨͓͚̠͈̪̽͒̒̓͂̍R̵͚͓̀͌͒́̈́̄̽̂̈́͗͘͠͠͝ě̵̛̋̿̈́̈́̏̊̃̀̄̀̆͜͝͠s̸̡̛̟̙͕̘͓͍̞̱̳͆̓̏̅͋͐̂͊̔̚ö̴̢̱̙̳͉̮͇̣̱͛̑͋̑̈́̔͜͝u̸͇̔̍́͜͠͝r̶̖̝͑̐͂͆͝c̵̢̛̝̹͔̬̜͈͈̳͙͓͖̬̰̳̔̄̿̕̕ẹ̶̠̪͌͒̿̈́͆́͘s̴͔͓̞̿̋̄̽̆͆͑̀̊͂͜ͅ team to the top of our organization, right where they should be -- at the helm of the business. Kindly direct all inquiries and requests [directly to our leadership](mailto:hr@inadequate.solutions). They will most likely reply within 7 to 17 business days.
 
 <br/><!-- website goes brrrrrrrrrrrr --><br/>
 <img class="center" src="/images/dumpsterFire_small.gif" />
