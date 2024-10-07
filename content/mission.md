@@ -6,7 +6,7 @@ title: "Mission Statement"
 
 In July of 1969, human beings not only stepped foot on the moon, but also managed to return to Earth safely! This epic feat was achieved using a 16-bit guidance computer operating with a 1.024 MHz clock and consisting only of NOR gates, expanders, amplifiers, 2,048 16-bit words of erasable magnetic core memory, and 36,864 words of read-only core rope memory. Thanks to truly incredible engineers, humanity achieved so much with so little.
 
-Today, we honor and stand on the shoulders of these technical giants by mass-producing aggressively mediocre Internet-connected crap that treats users as little more than meaty data sources. And yet, we're so very much in love with our e-waste-in-training that when the latest model is launched, we gleefully *"recycle"* our old devices right onto the shores of countries we audaciously deem too poor to matter. 
+Today, we honor and stand on the shoulders of these technical giants by mass-producing aggressively mediocre Internet-connected crap that treats users as little more than meaty data sources. And yet, we're so very much in love with our [e-waste](https://api.globalewaste.org/publications/file/297/Global-E-waste-Monitor-2024.pdf)-in-training that when the latest model is launched, we gleefully *"recycle"* our old devices [right onto the shores of countries we audaciously deem too poor to matter](https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers). 
 
 **Inadequate Solutions** proudly strives to accomplish something -- literally *anything* -- and will do it passionately, ethically, sustainably, and transparently.
 
